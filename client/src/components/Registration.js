@@ -42,7 +42,7 @@ const Registration = () => {
 
   return (
     <div className="body1">
-      <div className="card">
+      <div>
         <Link to={"/"} className="btn btn-primary">
           <span>Home</span>
         </Link>

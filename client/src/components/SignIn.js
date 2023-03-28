@@ -14,14 +14,16 @@ const Registration = () => {
 
   return (
     <div>
-      <form>
-        <div className="card">
+
+<div>
           <Link to={"/signup"} className="signUp btn btn-primary">
             
               <span>Sign Up</span>
             
           </Link>
         </div>
+      <form className="signInForm">
+        
 
         <div className="middleDiv col">
           {/* <div>
