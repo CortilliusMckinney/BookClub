@@ -21,17 +21,16 @@ BookClub is a social platform where users can:
 ## 📸 Screenshots
 
 ### Home Page with Book Collection
-![Book Collection](./screenshots/screenshot-2-add-form-with-books.png%20(form%20with%20books%20below).png)
+![Book Collection](./screenshots/screenshot-2-add-form-with-books.png%20%28form%20with%20books%20below%29.png)
 *Social book sharing interface displaying user-submitted books with cover images*
 
 ### Add Book Form
-![Add Book Form](./screenshots/screenshot-3-add-form-filled.png%20(form%20with%20data%20filled%20in).png)
+![Add Book Form](./screenshots/screenshot-3-add-form-filled.png%20%28form%20with%20data%20filled%20in%29.png)
 *React-based form with validation and image upload functionality*
 
 ### Book Detail & Edit Page
-![Book Detail](./screenshots/screenshot-1-book-detail.png%20(the%20detail%20page).png)
+![Book Detail](./screenshots/screenshot-1-book-detail.png%20%28the%20detail%20page%29.png)
 *Individual book view with editing capabilities and metadata*
-
 ---
 
 ## 🚀 Features
